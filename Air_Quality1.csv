@@ -1,0 +1,20 @@
+﻿Date,Location,PM2_5 Level,Air_Quality_Category
+19-10-2026,city,65,good
+20-10-2026,industry,82,unhealthy
+21-10-2026,city,68,moderate
+22-10-2026,city,95,healthy
+23-10-2026,industry,450,good
+24-10-2026,industry,828,moderate
+25-10-2026,industry,59,healthy
+26-10-2026,city,48,unhealthy
+27-10-2026,city,60,moderate
+28-10-2026,industry,58,good
+29-10-2026,city,250,healthy
+30-10-2026,city,96,moderate
+31-10-2026,industry,300,unhealthy
+01-11-2026,industry,690,good
+02-11-2026,city,88,good
+03-11-2026,industry,80,healthy
+04-11-2026,industry,200,moderate
+05-11-2026,city,76,unhealthy
+06-11-2026,industry,900,S
